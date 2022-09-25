@@ -13,10 +13,10 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Islamabad. 
 
 - 🌱 Learning Flutter alongside React Native 🔥 
 - 👨‍💻 All of my projects are available at [aftabrehan.com/projects](aftabrehan.com/projects)
-- 💬 Ask me about **React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...**
-- 📫 Reach me at **iamaftabrehan@gmail.com**
+- 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
+- 📫 Reach me at iamaftabrehan@gmail.com
 - 📄 Know about my experiences [aftabrehan.com/stats](aftabrehan.com/stats)
-- ⚡ Fun fact **Well, The moon has moon-quakes :smile:**
+- ⚡ Fun fact: Well, The moon has moon-quakes :smile:
 
 
 
