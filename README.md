@@ -9,7 +9,7 @@ width="210" src="https://avatars.githubusercontent.com/u/13691456?v=4" />
 
 ### WHO AM I! <img width="20" src="https://i.pinimg.com/originals/90/c6/69/90c6698dc6f9e00bb32ffb3e21042474.gif" />
 
-I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Islamabad. :heart:
+I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :heart:
 
 - 🌱 Learning Flutter alongside React Native 🔥 
 - 👨‍💻 All of my projects are available at [aftabrehan.com/projects](aftabrehan.com/projects)
@@ -52,3 +52,5 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Islamabad. 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabrehan&show_icons=true&locale=en" alt="aftabrehan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabrehan&" alt="aftabrehan" /></p>
+
+[![@aftab's Holopin board](https://holopin.io/api/user/board?user=aftab)](https://holopin.io/@aftab)
