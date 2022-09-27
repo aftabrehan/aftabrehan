@@ -30,7 +30,7 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://codepen.io/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aftabrehan" height="30" width="40" /></a>
 <a href="https://dev.to/aftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aftab" height="30" width="40" /></a>
@@ -38,7 +38,6 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 <a href="https://codesandbox.com/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aftabrehan" height="30" width="40" /></a>
 <a href="https://medium.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aftabrehan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aftabrehan" height="30" width="40" /></a>
-<a href="https://github.com/appzaib"><img src="https://avatars.githubusercontent.com/u/43295979?s=200&v=4" width="30" alt="@aftabrehan" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
