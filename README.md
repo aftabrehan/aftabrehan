@@ -11,25 +11,21 @@ width="210" src="https://avatars.githubusercontent.com/u/13691456?v=4" />
 
 I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :heart:
 
-- 🌱 Learning Flutter alongside React Native 🔥 
+- 🌱 Learning Flutter alongside React Native 🔥
 - 👨‍💻 All of my projects are available at [aftabrehan.com/projects](aftabrehan.com/projects)
 - 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
 - 📫 Reach me at iamaftabrehan@gmail.com
 - 📄 Know about my experiences [aftabrehan.com/stats](aftabrehan.com/stats)
 - ⚡ Fun fact: Well, The moon has moon-quakes :smile:
 
-
-
-
-<div align="center">
+<div align="left">
   <div style="display: flex;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabrehan" alt="aftabrehan" /></a>
-    <img width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="600" src="https://github-profile-trophy.vercel.app/?username=aftabrehan" alt="aftabrehan" /></a>
+   <img align="right" width="300" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif" />
   </div>
 </div>
 
 <p> <img src="https://komarev.com/ghpvc/?username=aftabrehan&label=Profile%20views&color=0e75b6&style=flat" alt="aftabrehan" /> </p>
-
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -42,6 +38,7 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 <a href="https://codesandbox.com/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aftabrehan" height="30" width="40" /></a>
 <a href="https://medium.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aftabrehan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aftabrehan" height="30" width="40" /></a>
+<a href="https://github.com/appzaib"><img src="https://avatars.githubusercontent.com/u/43295979?s=200&v=4" width="30" alt="@aftabrehan" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,5 +49,7 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aftabrehan&show_icons=true&locale=en" alt="aftabrehan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aftabrehan&" alt="aftabrehan" /></p>
+
+#### Hacktoberfest 2022
 
 [![@aftab's Holopin board](https://holopin.io/api/user/board?user=aftab)](https://holopin.io/@aftab)
