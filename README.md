@@ -18,7 +18,6 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 - 📄 Know about my experiences [aftabrehan.com/stats](aftabrehan.com/stats)
 - ⚡ Fun fact: Well, The moon has moon-quakes 😀
 
-
 <h3 align="left">Let's Connect</h3>
 <p align="left">
 <a href="https://codepen.io/aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aftabrehan" height="30" width="40" /></a>
@@ -28,6 +27,8 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 <a href="https://medium.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aftabrehan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aftabrehan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aftabrehan" height="30" width="40" /></a>
 </p>
+<img align="left" width="300" src="https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif" />
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
