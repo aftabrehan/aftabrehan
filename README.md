@@ -5,7 +5,7 @@ width="210" src="https://avatars.githubusercontent.com/u/13691456?v=4" />
  <img width="200" src="https://avatars.githubusercontent.com/u/43848659?v=4" />
 </div>
 
-## Hello there!! [Aftab Rehan](aftabrehan.com) here <img width="34" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
+## Hello there!! [Aftab Rehan](https://aftabrehan.com) here <img width="34" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
 
 ### WHO AM I! <img width="20" src="https://i.pinimg.com/originals/90/c6/69/90c6698dc6f9e00bb32ffb3e21042474.gif" />
 
