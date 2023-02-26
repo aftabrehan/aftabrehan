@@ -12,7 +12,7 @@ width="210" src="https://avatars.githubusercontent.com/u/13691456?v=4" />
 I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :heart:
 
 - 🌱 Learning Flutter alongside React Native 🔥
-- 👨‍💻 All of my projects are available at [aftabrehan.com/projects](aftabrehan.com/projects)
+- 👨‍💻 All of my projects are available at [aftabrehan.com/projects](https://aftabrehan.com/projects)
 - 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
 - 📫 Reach me at iamaftabrehan@gmail.com
 - 📄 Know about my experiences [aftabrehan.com/stats](aftabrehan.com/stats)
