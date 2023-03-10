@@ -15,7 +15,7 @@ I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :he
 - 👨‍💻 All of my projects are available at [aftabrehan.com/projects](https://aftabrehan.com/projects)
 - 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
 - 📫 Reach me at iamaftabrehan@gmail.com
-- 📄 Know about my experiences [aftabrehan.com/stats](aftabrehan.com/stats)
+- 📄 Know about my experiences [aftabrehan.com/stats](https://aftabrehan.com/stats)
 - ⚡ Fun fact: Well, The moon has moon-quakes 😀
 
 <h3 align="left">Let's Connect</h3>
