@@ -5,17 +5,17 @@ width="210" src="https://avatars.githubusercontent.com/u/13691456?v=4" />
  <img width="200" src="https://avatars.githubusercontent.com/u/43848659?v=4" />
 </div> -->
 
-## Hello there!! [Aftab Rehan](https://aftabrehan.com) here <img width="34" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
+## Hello there!! [Aftab Rehan](https://workwithaftab.com) here <img width="34" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
 
 ### WHO AM I! <img width="20" src="https://i.pinimg.com/originals/90/c6/69/90c6698dc6f9e00bb32ffb3e21042474.gif" />
 
 I am a passionate :rocket: Computer Scientist :robot: from Pakistan, Multan. :heart:
 
 - 🌱 Learning Swift alongside React Native 🔥
-- 👨‍💻 All of my projects are available at [aftabrehan.com/projects](https://aftabrehan.com/projects)
+- 👨‍💻 All of my projects are available at [workwithaftab.com/projects](https://workwithaftab.com/?tab=portfolio)
 - 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
-- 📫 Reach me at iamaftabrehan@gmail.com
-- 📄 Know about my experiences [aftabrehan.com/stats](https://aftabrehan.com/stats)
+- 📫 Reach me at workwithaftabrehan@gmail.com
+- 📄 Know about my experiences [workwithaftab.com/stats](https://workwithaftab.com/?tab=experiences)
 - ⚡ Fun fact: Well, The moon has moon-quakes 😀
 
 <h3 align="left">Let's Connect</h3>
