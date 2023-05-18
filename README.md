@@ -1,4 +1,4 @@
-#### Hello there!! [Aftab Rehan](https://workwithaftab.com) here <img width="34" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
+#### Hello there!! [Aftab Rehan](https://workwithaftab.com) here <img width="18" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
 
 I'm a passionate 🚀 Computer Scientist 🤖 with an insatiable love for technology! ❤️
 
