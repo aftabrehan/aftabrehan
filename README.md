@@ -3,10 +3,10 @@
 I'm a passionate 🚀 Computer Scientist 🤖 with an insatiable love for technology! ❤️
 
 - 🌱 Learning Swift alongside React Native 🔥
-- 👨‍💻 All of my projects are available at [workwithaftab.com/projects](https://workwithaftab.com/?tab=portfolio)
+- 👨‍💻 All of my projects are available at [aftabrehan.com/projects](https://aftabrehan.com/portfolio)
 - 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
 - 📫 Reach me at workwithaftabrehan@gmail.com
-- 📄 Know about my experiences [workwithaftab.com/stats](https://workwithaftab.com/?tab=portfolio)
+- 📄 Know about my experiences [aftabrehan.com/stats](https://aftabrehan.com/portfolio)
 - ⚡ Fun fact: Well, The moon has moon-quakes 😀
 
 ##### Let's Connect
