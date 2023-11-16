@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/aftabrehan/aftabrehan/assets/93012310/8714c84e-bf97-4a03-84f2-72a5d9d0fde2" alt="banner-image" />
+ <img src="https://github.com/aftabrehan/aftabrehan/assets/93012310/72074229-e298-4337-9de7-2b450fbb768c" alt="banner-image" />
 </div>
 
 #### Hello there! 👋
