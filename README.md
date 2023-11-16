@@ -1,12 +1,11 @@
-#### Hello there!! [Aftab Rehan](https://aftabrehan.com) here <img width="18" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" />
+#### Hello there! 👋
 
-I'm a passionate 🚀 Computer Scientist 🤖 with an insatiable love for technology! ❤️
+I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX research passion. My mission? To sprinkle a bit of inspiration into the web world by crafting eye-catching experiences. Whether it's through Upwork or open-source projects on GitHub, I love contributing remotely.
 
 - 🌱 Learning Swift alongside React Native 🔥
-- 👨‍💻 All of my projects are available at [aftabrehan.com/projects](https://aftabrehan.com/portfolio)
-- 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks and Libraries...
+- 👨‍💻 All of my projects are available at [aftabrehan.com/portfolio](https://aftabrehan.com/portfolio)
+- 💬 Ask me about React, React Native, Node JS, Electron, Next JS, Modern Frameworks & Libraries...
 - 📫 Reach me at workwithaftabrehan@gmail.com
-- 📄 Know about my experiences [aftabrehan.com/stats](https://aftabrehan.com/portfolio)
 - ⚡ Fun fact: Well, The moon has moon-quakes 😀
 
 ##### Let's Connect
