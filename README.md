@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://github.com/aftabrehan/aftabrehan/assets/93012310/8714c84e-bf97-4a03-84f2-72a5d9d0fde2" alt="banner-image" />
+</div>
+
 #### Hello there! 👋
 
 I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX research passion. My mission? To sprinkle a bit of inspiration into the web world by crafting eye-catching experiences. Whether it's through Upwork or open-source projects on GitHub, I love contributing remotely.
