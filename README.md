@@ -25,8 +25,16 @@ I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX re
 
 ##### Latest Project
 
-<div align="center">
-
- https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae?sid=4d426458-862b-406e-b731-edbc55dfdfc5
-
+<div>
+  <a href="https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae">
+    <p>LinksHub (UI)</p>
+  </a>
+  <a href="https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/88f327b123d940e584e3456cac95f2ae-1701676015846-with-play.gif">
+  </a>
 </div>
+
+
+
+
+
