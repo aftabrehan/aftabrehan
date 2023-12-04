@@ -21,3 +21,12 @@ I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX re
   <a href="mailto:workwithaftabrehan@gmail.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-mail-1299-1100772.png?f=webp" alt="aftabrehan" height="30" width="30" /></a>
   <a href="https://read.withaftab.com" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93012310/239690238-ab455b1f-cf97-43a9-bec3-d69bab860d5e.png" alt="aftabrehan" height="30" width="30" /></a>
 </p>
+
+
+##### Latest Project
+
+<div align="center">
+
+ https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae?sid=4d426458-862b-406e-b731-edbc55dfdfc5
+
+</div>
