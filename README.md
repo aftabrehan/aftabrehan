@@ -22,19 +22,8 @@ I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX re
   <a href="https://read.withaftab.com" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/93012310/239690238-ab455b1f-cf97-43a9-bec3-d69bab860d5e.png" alt="aftabrehan" height="30" width="30" /></a>
 </p>
 
-
-##### Latest Project
-
-<div>
-  <a href="https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae">
-    <p>LinksHub (UI)</p>
-  </a>
-  <a href="https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a5f69f8c8e1343f1b2b051b13debd63a-with-play.gif">
-  </a>
-</div>
-
-
-
-
-
+|                                                                                                                                                           Latest                                                                                                                                                           |                                                                                                                                                          Projects                                                                                                                                                          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      <div><a href="https://www.loom.com/share/b897f027e3654923af44f5d4d417b89b"><img style="max-width:220px;" src="https://cdn.loom.com/sessions/thumbnails/b897f027e3654923af44f5d4d417b89b-with-play.gif"></a><a href="https://www.loom.com/share/b897f027e3654923af44f5d4d417b89b"><p>XProfile (UI)</p></a></div>       |      <div><a href="https://www.loom.com/share/a5f69f8c8e1343f1b2b051b13debd63a"><img style="max-width:220px;" src="https://cdn.loom.com/sessions/thumbnails/a5f69f8c8e1343f1b2b051b13debd63a-with-play.gif"></a><a href="https://www.loom.com/share/a5f69f8c8e1343f1b2b051b13debd63a"><p>LinksHub (UI)</p></a></div>       |
+| <div><a href="https://www.loom.com/share/65368aa4b17e4145bab052cfe52843cd"><img style="max-width:220px;" src="https://cdn.loom.com/sessions/thumbnails/65368aa4b17e4145bab052cfe52843cd-with-play.gif"></a><a href="https://www.loom.com/share/65368aa4b17e4145bab052cfe52843cd"><p>Apple Landing Page Clone</p></a></div> | <div><a href="https://www.loom.com/share/53cc7ed38c1044068fe08900ea6edb10"><img style="max-width:220px;" src="https://cdn.loom.com/sessions/thumbnails/53cc7ed38c1044068fe08900ea6edb10-with-play.gif"></a><a href="https://www.loom.com/share/53cc7ed38c1044068fe08900ea6edb10"><p>Apple Landing Page Clone</p></a></div> |
+| <div><a href="https://www.loom.com/share/64580d0da0144e4e8428261fd946b61c"><img style="max-width:220px;" src="https://cdn.loom.com/sessions/thumbnails/64580d0da0144e4e8428261fd946b61c-with-play.gif"></a><a href="https://www.loom.com/share/64580d0da0144e4e8428261fd946b61c"><p>Apple Landing Page Clone</p></a></div> | <div><a href="https://www.loom.com/share/11184789eac8492fb4f3971cd9ec455b"><img style="max-width:220px;" src="https://cdn.loom.com/sessions/thumbnails/11184789eac8492fb4f3971cd9ec455b-with-play.gif"></a><a href="https://www.loom.com/share/11184789eac8492fb4f3971cd9ec455b"><p>Apple Landing Page Clone</p></a></div> |
