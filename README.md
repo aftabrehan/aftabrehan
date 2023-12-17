@@ -30,7 +30,7 @@ I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX re
     <p>LinksHub (UI)</p>
   </a>
   <a href="https://www.loom.com/share/88f327b123d940e584e3456cac95f2ae">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/88f327b123d940e584e3456cac95f2ae-1701676015846-with-play.gif">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a5f69f8c8e1343f1b2b051b13debd63a-with-play.gif">
   </a>
 </div>
 
