@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/aftabrehan/aftabrehan/assets/93012310/72074229-e298-4337-9de7-2b450fbb768c" alt="banner-image" />
+ <img src="https://github.com/user-attachments/assets/7b5f72cc-c97f-4e12-82ac-8ce6be26b782" alt="banner-image" />
 </div>
 
 #### Hello there! 👋
@@ -7,7 +7,7 @@
 I'm a frontend expert, web developer, and UI/UX designer with a dash of UI/UX research passion. My mission? To sprinkle a bit of inspiration into the web world by crafting eye-catching experiences. Whether it's through Upwork or open-source projects on GitHub, I love contributing remotely.
 
 - 🌱 Learning Swift alongside React Native 🔥
-- 👨‍💻 All of my projects are available at [aftabrehan.com/portfolio](https://aftabrehan.com/portfolio)
+- 👨‍💻 All of my projects are available at [aftabrehan.com/work](https://aftabrehan.com/work)
 - 💬 Ask me about React, TypeScript, Electron, Next JS, Firebase, Modern Frameworks & Libraries...
 - 📫 Reach me at workwithaftabrehan@gmail.com
 - ⚡ Fun fact: Well, The moon has moon-quakes 😀
